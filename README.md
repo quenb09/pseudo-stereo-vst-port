@@ -1,4 +1,4 @@
-# Pseudo-Stereo (VST3 for FL Studio)
+# Pseudo Stereo (VST3 for FL Studio)
 
 A real VST3 port of Steve Daulton's Audacity Nyquist plug-in **Pseudo-Stereo** (`Pseudostereo.ny`,
 included for reference). It takes one channel and makes a stereo image by delaying different
